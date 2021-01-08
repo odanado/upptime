@@ -5,6 +5,8 @@ repo: upptime
 sites:
   - name: odan.dev
     url: https://odan.dev
+  - name: blog.odan.dev
+    url: https://blog.odan.dev
 
 status-website:
   name: Upptime
