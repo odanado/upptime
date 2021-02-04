@@ -22,9 +22,9 @@
     "url": "https://blog.odan.dev",
     "icon": "https://favicons.githubusercontent.com/blog.odan.dev",
     "slug": "blog-odan-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1116,
     "timeMonth": 1146,
     "timeYear": 1146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 0
+    }
   }
 ]
