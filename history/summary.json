@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 176,
+    "time": 405,
+    "timeDay": 137,
     "timeWeek": 160,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "timeMonth": 405,
+    "timeYear": 405,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/blog.odan.dev",
     "slug": "blog-odan-dev",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1150,
-    "timeDay": 1191,
-    "timeWeek": 1137,
-    "timeMonth": 1150,
-    "timeYear": 1150,
-    "dailyMinutesDown": {
-      "2021-02-04": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1141,
+    "timeDay": 1082,
+    "timeWeek": 1098,
+    "timeMonth": 1141,
+    "timeYear": 1141,
+    "dailyMinutesDown": {}
   }
 ]
